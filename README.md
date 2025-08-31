@@ -1,4 +1,4 @@
-## This is are old, outdate mods for a dicontinued game. I'll try to learn to code and fix them so that they are useable again.
+## This is are old, outdated mods for a dicontinued game. I'll try to learn to code and fix them so that they are useable again.
 # ModAPI-Mods
 Mods I've created for ModAPI for TheForest
 
